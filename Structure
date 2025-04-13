@@ -1,0 +1,15 @@
+microtech-service/
+│-- index.html                # Homepage
+│-- styles/                   # CSS folder
+│   ├── style.css             # Global styles
+│   ├── navbar.css            # Navbar-specific styles
+│   ├── home.css              # Homepage-specific styles
+│-- scripts/                  # JavaScript folder
+│   ├── navbar.js             # Navbar functionality
+│   ├── home.js               # Homepage interactivity
+│-- assets/                   # Images and icons
+│   ├── logo.png              # Website logo
+│   ├── banner.jpg            # Banner image for homepage
+│   ├── icon-battery.png      # Battery icon
+│   ├── icon-ups.png          # UPS icon
+│   ├── icon-support.png      # Support icon
